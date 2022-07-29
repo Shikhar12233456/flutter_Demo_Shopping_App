@@ -1,0 +1,83 @@
+{
+    "products": [
+        {
+            "id": 1,
+            "name": "Maggi",
+            "descr": "This is one of the best Product",
+            "price": 30,
+            "imageUrl":"assets/images/myImage.png" 
+            },
+            {
+                "id": 2,
+                "name": "Pizza",
+                "descr": "This is one of the best Product",
+                "price": 150,
+                "imageUrl":"assets/images/myImage.png" 
+            },
+            {
+                "id": 3,
+                "name": "Pasta",
+                "descr": "This is one of the best Product",
+                "price": 50,
+                "imageUrl":"assets/images/myImage.png" 
+            },
+            {
+                "id": 4,
+                "name": "Panner",
+                "descr": "This is one of the best Product",
+                "price": 250,
+                "imageUrl":"assets/images/myImage.png" 
+            },
+            {
+                "id": 5,
+                "name": "Chole",
+                "descr": "This is one of the best Product",
+                "price": 230,
+                "imageUrl":"assets/images/myImage.png" 
+            },
+            {
+                "id": 6,
+                "name": "Kulfi",
+                "descr": "This is one of the best Product",
+                "price": 20,
+                "imageUrl":"assets/images/myImage.png" 
+            },
+            {
+                "id": 7,
+                "name": "Ice-Cream",
+                "descr": "This is one of the best Product",
+                "price": 100,
+                "color": "white",
+                "imageUrl":"assets/images/myImage.png" 
+            },
+            {
+                "id": 8,
+                "name": "Butter Chicken",
+                "descr": "This is one of the best Product",
+                "price": 450,
+                "color": "white",
+                "imageUrl":"assets/images/myImage.png" 
+            },
+            {
+                "id": 9,
+                "name": "Dal Makhni",
+                "descr": "This is one of the best Product",
+                "price": 200,
+                "imageUrl":"assets/images/myImage.png" 
+            },
+            {
+                "id": 10,
+                "name": "Kheer",
+                "descr": "This is one of the best Product",
+                "price": 250,
+                "imageUrl":"assets/images/myImage.png" 
+            },
+            {
+                "id": 11,
+                "name": "Fried-Rice",
+                "descr": "This is one of the best Product",
+                "price": 150,
+                "imageUrl":"assets/images/myImage.png" 
+            }
+    ]
+}
