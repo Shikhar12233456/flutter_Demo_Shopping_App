@@ -5,42 +5,42 @@
             "name": "Maggi",
             "descr": "This is one of the best Product",
             "price": 30,
-            "imageUrl":"assets/images/myImage.png" 
+            "imageUrl":"https://firebasestorage.googleapis.com/v0/b/auth-c22f4.appspot.com/o/maggi.jpg?alt=media&token=f2e8082f-e160-43dd-8b4b-f365806407e6" 
             },
             {
                 "id": 2,
                 "name": "Pizza",
                 "descr": "This is one of the best Product",
                 "price": 150,
-                "imageUrl":"assets/images/myImage.png" 
+                "imageUrl":"https://firebasestorage.googleapis.com/v0/b/auth-c22f4.appspot.com/o/pizza.jpg?alt=media&token=35779321-b6b2-4541-82ea-db5475f864ce"
             },
             {
                 "id": 3,
                 "name": "Pasta",
                 "descr": "This is one of the best Product",
                 "price": 50,
-                "imageUrl":"assets/images/myImage.png" 
+                "imageUrl":"https://firebasestorage.googleapis.com/v0/b/auth-c22f4.appspot.com/o/pasta.jpg?alt=media&token=2e6840bc-aa69-4416-b830-7d4cadfa2785" 
             },
             {
                 "id": 4,
                 "name": "Panner",
                 "descr": "This is one of the best Product",
                 "price": 250,
-                "imageUrl":"assets/images/myImage.png" 
+                "imageUrl":"https://firebasestorage.googleapis.com/v0/b/auth-c22f4.appspot.com/o/paneer.jpg?alt=media&token=0a88d72e-ad57-4be2-b17b-f896c8740695" 
             },
             {
                 "id": 5,
                 "name": "Chole",
                 "descr": "This is one of the best Product",
                 "price": 230,
-                "imageUrl":"assets/images/myImage.png" 
+                "imageUrl":"https://firebasestorage.googleapis.com/v0/b/auth-c22f4.appspot.com/o/Chole.jpg?alt=media&token=87d7763b-62bc-4844-b4e4-d4c1dcf5b3a3"
             },
             {
                 "id": 6,
                 "name": "Kulfi",
                 "descr": "This is one of the best Product",
                 "price": 20,
-                "imageUrl":"assets/images/myImage.png" 
+                "imageUrl":"https://firebasestorage.googleapis.com/v0/b/auth-c22f4.appspot.com/o/kulfi.jpg?alt=media&token=0957c470-2243-43b2-b7e1-c0f90d54c2f2" 
             },
             {
                 "id": 7,
@@ -48,7 +48,7 @@
                 "descr": "This is one of the best Product",
                 "price": 100,
                 "color": "white",
-                "imageUrl":"assets/images/myImage.png" 
+                "imageUrl":"https://firebasestorage.googleapis.com/v0/b/auth-c22f4.appspot.com/o/ice_cream.jpg?alt=media&token=2d5c0c01-91ce-4d0e-bb13-f7c60c40fada" 
             },
             {
                 "id": 8,
@@ -56,28 +56,28 @@
                 "descr": "This is one of the best Product",
                 "price": 450,
                 "color": "white",
-                "imageUrl":"assets/images/myImage.png" 
+                "imageUrl":"https://firebasestorage.googleapis.com/v0/b/auth-c22f4.appspot.com/o/Butter_chicken.jpg?alt=media&token=04601da4-b34c-4af7-96a1-41694e2f7c29" 
             },
             {
                 "id": 9,
                 "name": "Dal Makhni",
                 "descr": "This is one of the best Product",
                 "price": 200,
-                "imageUrl":"assets/images/myImage.png" 
+                "imageUrl":"https://firebasestorage.googleapis.com/v0/b/auth-c22f4.appspot.com/o/Dal_makhni.jpg?alt=media&token=075e61e3-7bae-4160-8c25-0b4cb58bb737" 
             },
             {
                 "id": 10,
                 "name": "Kheer",
                 "descr": "This is one of the best Product",
                 "price": 250,
-                "imageUrl":"assets/images/myImage.png" 
+                "imageUrl":"https://firebasestorage.googleapis.com/v0/b/auth-c22f4.appspot.com/o/Kheer.jpg?alt=media&token=d0bf0195-2d37-43ee-8d54-213b845d01dd" 
             },
             {
                 "id": 11,
                 "name": "Fried-Rice",
                 "descr": "This is one of the best Product",
                 "price": 150,
-                "imageUrl":"assets/images/myImage.png" 
+                "imageUrl":"https://firebasestorage.googleapis.com/v0/b/auth-c22f4.appspot.com/o/Fried_rice.jpg?alt=media&token=c04f1d5f-600a-4a31-9d61-9b7f6fcbeb22" 
             }
     ]
 }

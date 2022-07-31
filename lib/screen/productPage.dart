@@ -36,7 +36,7 @@ class _productPageState extends State<productPage> {
       body: Card(
         child: Column(
           children: [
-            Image.asset(widget.prd.imageUrl),
+            Image.network(widget.prd.imageUrl),
             Text(widget.prd.name),
             Text(widget.prd.descr),
             Text("${widget.prd.price}"),

@@ -1,5 +1,10 @@
 class ProductModel {
   static List<product> items = [];
+
+  product getByID(num id) =>
+      items.firstWhere((element) => element.id == id, orElse: null);
+
+  product getByPosition(int pos) => items[pos];
 }
 
 class product {
